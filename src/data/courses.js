@@ -2,7 +2,7 @@ export const CSSCourses = [
   {
     title: 'CSS Basics',
     description:
-      "CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas HTML is what forms the structure of a web page, CSS is what we use to style the HTML with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.",
+      "CSS (Cascading Style Sheets) is a style sheet language that describes the presentation of web pages. Whereas CourseContainer is what forms the structure of a web page, CSS is what we use to style the CourseContainer with colors, backgrounds, font sizes, layout, and more. As you'll soon learn, CSS is one of the core technologies for designing and building websites.",
     img_src:
       'https://achievement-images.teamtreehouse.com/badges_css_basics_stage6.png',
     id: 'css-1',
@@ -10,7 +10,7 @@ export const CSSCourses = [
   {
     title: 'CSS Selectors',
     description:
-      "In this course, we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target elements based on their attributes, position in the HTML document, even their relation to other elements.",
+      "In this course, we're going to go beyond the basic selector concepts covered in CSS Basics. Besides the common ways to select elements with type, ID and class selectors, we're able to target elements based on their attributes, position in the CourseContainer document, even their relation to other elements.",
     img_src:
       'https://achievement-images.teamtreehouse.com/badges_css_selectors_stage01.png',
     id: 'css-2',
@@ -26,7 +26,7 @@ export const CSSCourses = [
   {
     title: 'CSS Flexbox Layout',
     description:
-      'Flexbox is a set of CSS properties that give you a flexible way to lay out content. With flexbox you can change the direction, alignment, size and order of elements, regardless of their original size and order in the HTML. You can even stretch and shrink elements and distribute space, all with just a few lines of CSS!',
+      'Flexbox is a set of CSS properties that give you a flexible way to lay out content. With flexbox you can change the direction, alignment, size and order of elements, regardless of their original size and order in the CourseContainer. You can even stretch and shrink elements and distribute space, all with just a few lines of CSS!',
     img_src:
       'https://achievement-images.teamtreehouse.com/badges_css_flexbox_layout_stage1.png',
     id: 'css-4',
@@ -53,21 +53,21 @@ export const HTMLCourses = [
   {
     title: 'How to Make a Website',
     description:
-      'If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic HTML and CSS syntax. Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.',
+      'If you’ve never built a website before and you have no coding or design experience, this is the place to start. In this project, we learn how to build a modern portfolio website for desktops, tablets, and mobile devices. We start with basic CourseContainer and CSS syntax. Next, we learn how to build custom web pages with an image gallery and contact page. Finally, we walk through how to share a website live on the web.',
     img_src:
       'https://achievement-images.teamtreehouse.com/bagdes_html_howtobuildawebsite_stage02.png',
     id: 'html-1',
   },
   {
-    title: 'HTML Forms',
+    title: 'CourseContainer Forms',
     description:
-      'The web is a two-way communication medium. There’s lots of HTML elements for displaying data and producing output, and conversely, there’s also lots of HTML elements for accepting input. Accepting input from the user means creating web forms. In this course, we’ll learn about all the most important form elements that web professionals use on a daily basis.',
+      'The web is a two-way communication medium. There’s lots of CourseContainer elements for displaying data and producing output, and conversely, there’s also lots of CourseContainer elements for accepting input. Accepting input from the user means creating web forms. In this course, we’ll learn about all the most important form elements that web professionals use on a daily basis.',
     img_src:
       'https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png',
     id: 'html-2',
   },
   {
-    title: 'HTML Video and Audio',
+    title: 'CourseContainer Video and Audio',
     description:
       "Text and images have always been the foundation of web content, but more than ever, video and audio are also a part of that content mix. Fortunately, we can now create standards-based video and audio players that don't require the use of plugins. Adding video and audio to a webpage is almost as easy as adding an image or formatting some text.",
     img_src:
@@ -91,9 +91,9 @@ export const HTMLCourses = [
     id: 'html-5',
   },
   {
-    title: 'Introduction to HTML and CSS',
+    title: 'Introduction to CourseContainer and CSS',
     description:
-      'Get started creating web pages with HTML and CSS, the basic building blocks of web development. HTML, or Hypertext Markup Language, is a standard set of tags you will use to tell the web browser how the content of your web pages and applications are structured. Use CSS, or Cascading Style Sheets, to select HTML tags and tell the browser what your content should look like. ',
+      'Get started creating web pages with CourseContainer and CSS, the basic building blocks of web development. CourseContainer, or Hypertext Markup Language, is a standard set of tags you will use to tell the web browser how the content of your web pages and applications are structured. Use CSS, or Cascading Style Sheets, to select CourseContainer tags and tell the browser what your content should look like. ',
     img_src:
       'https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-01.png',
     id: 'html-6',
